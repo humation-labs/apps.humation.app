@@ -1,0 +1,46 @@
+{
+  "$schema": "https://apps.humation.app/schema/app.schema.json",
+  "name": "TaviNote",
+  "tagline": "Plan a trip together and grow a tree as you get ready",
+  "description": "TaviNote turns getting ready for a trip into growing a tree. Every task you finish before departure, from booking a room to packing and deciding where to eat, makes the tree grow a little. When the trip is over the tree stays in your forest as a record of that journey.\n\nHand someone a room ID and you plan the trip together. Friends, family or a partner edit the same checklist, diary, free notes and budget, and the progress everyone sees moves at once.\n\nHumation avatars are the faces of the people you travel with. They appear in the member row at the top of a shared trip, and in the settings screen as your own face. Each avatar is drawn from the user ID, so the same person always has the same face on everyone's screen, with no photo or profile to set up.",
+  "url": "https://tavinote.web.app/",
+  "category": "lifestyle",
+  "platforms": ["web", "android"],
+  "pricing": "freemium",
+  "humation": {
+    "packages": ["@humation/core", "@humation/assets-humation-1"],
+    "usage": "The member row at the top of a shared trip and your own avatar in the settings screen"
+  },
+  "developer": {
+    "name": "Shota Yamawaki",
+    "github": "imshota1009"
+  },
+  "icon": "icon.png",
+  "screenshots": [
+    { "file": "screenshots/01.png", "alt": "Home screen with postcard-style trip cards showing dates, destination and preparation progress" },
+    { "file": "screenshots/02.png", "alt": "A shared trip with three Humation avatars in the member row and a tree grown to fifty percent" },
+    { "file": "screenshots/03.png", "alt": "Settings screen showing the user's own Humation avatar under Your avatar" },
+    { "file": "screenshots/04.png", "alt": "The growth record dialog showing the tree at stage one of ten with a short description" },
+    { "file": "screenshots/05.png", "alt": "The tree picker with a grid of trees to choose for the next trip" }
+  ],
+  "links": {
+    "playStore": "https://play.google.com/store/apps/details?id=com.imshota.tavinote",
+    "repo": "https://github.com/imshota1009/TaviNote",
+    "x": "https://x.com/NekoDev1009"
+  },
+  "i18n": {
+    "ja": {
+      "tagline": "みんなで旅の準備をすると木が育つ",
+      "description": "TaviNote は、旅の準備を木の成長に変える旅行計画アプリです。予約や持ち物、行きたいお店を決めるなど、出発前のやることをひとつ終えるたびに木が少しずつ育ちます。旅行が終わっても木は思い出の森に残り、その旅の記録になります。\n\nルームIDを渡すだけで、友達や家族、恋人と同じ旅行を一緒に計画できます。Todo、日記、自由メモ、予算をみんなで書き込め、準備の進み具合も全員に同時に反映されます。\n\nHumation のアバターは、一緒に旅をする人の顔として使っています。共有中の旅行の画面上部に並ぶメンバー欄と、設定画面のあなたのアバターに表示されます。アバターは利用者IDから描かれるため、写真やプロフィールを設定しなくても、同じ人はいつでも全員の画面で同じ顔になります。",
+      "usage": "共有中の旅行のメンバー欄と、設定画面のあなたのアバター",
+      "screenshots": [
+        { "file": "screenshots/01.png", "alt": "旅行がポストカード風のカードで並ぶホーム画面" },
+        { "file": "screenshots/02.png", "alt": "3人のHumationアバターが並ぶ共有中の旅行画面" },
+        { "file": "screenshots/03.png", "alt": "自分のHumationアバターが表示された設定画面" },
+        { "file": "screenshots/04.png", "alt": "木の成長を1/10から順に見られる成長の記録" },
+        { "file": "screenshots/05.png", "alt": "旅ごとに育てる木を選ぶ一覧" }
+      ]
+    }
+  },
+  "addedAt": "2026-09-08"
+}
