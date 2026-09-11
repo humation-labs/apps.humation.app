@@ -1,7 +1,7 @@
 {
   "$schema": "https://apps.humation.app/schema/app.schema.json",
   "name": "oyado",
-  "tagline": "A travel library for stays",
+  "tagline": "Collect stays from anywhere into one library",
   "description": "oyado is a \"library of stays\" — collect the hotels and ryokan that catch your eye, and keep your next trip and travel memories in one place.\n\nOfficial sites, booking sites, social media, articles — encounters with great stays are scattered everywhere. With oyado, save from the Safari share sheet, by pasting a URL, or by searching a name. Wherever you found it, you'll find it again.\n\nFor booking, you'll be taken to the stay's official site or a booking site.\nYour next trip starts by saving the one that caught your eye.\n\nHumation avatars are the profile icons: each user composes their own character from the Humation 1 parts and colors in the in-app editor, rendered on device from the bundled asset set.",
   "url": "https://apps.apple.com/jp/app/oyado/id6760962887",
   "category": "lifestyle",
@@ -19,19 +19,19 @@
   "screenshots": [
     {
       "file": "screenshots/01.webp",
-      "alt": "The library grid of saved stays, with a search field and filter chips for All, Interested, Visited and Favorites"
+      "alt": "A saved stay's page, with buttons to book, open its official site and ask AI, above the stay album"
     },
     {
       "file": "screenshots/02.webp",
-      "alt": "The save sheet for a stay: name, official site URL, location and cover image filled in automatically, with status chips and tags"
+      "alt": "The booking sheet for that stay: the official site first, then Rakuten, Jalan, Ikyu, Yahoo, Booking.com, Expedia and Agoda"
     },
     {
       "file": "screenshots/03.webp",
-      "alt": "A shared collection of autumn hot springs with two members and four saved stays in a photo grid"
+      "alt": "The library grid of saved stays, with a search field and filter chips for All, Interested, Visited and Favorites"
     },
     {
       "file": "screenshots/04.webp",
-      "alt": "A poll inside that shared collection, listing four candidate stays with a vote button, two votes per person and two days left"
+      "alt": "The save sheet for a stay: name, official site URL, location and cover image filled in automatically, with status chips and tags"
     },
     {
       "file": "screenshots/05.webp",
@@ -43,25 +43,25 @@
   },
   "i18n": {
     "ja": {
-      "tagline": "気になる宿を集める旅のライブラリ",
+      "tagline": "どこで見つけた宿も、ひとつのライブラリに",
       "description": "oyadoは、気になるホテル・旅館を集めて、次の旅と旅の思い出をひとつに残す「宿のライブラリ」です。\n\n公式サイト、予約サイト、SNS、記事。宿との出会いはあちこちに散らばります。oyadoなら、Safariの共有、URLの貼り付け、宿名検索から保存。どこで見つけても、あとで迷わず見返せます。\n\n予約するときは、宿の公式サイトや予約サイトへ移動します。\n気になる一軒を保存するところから、次の旅が始まります。\n\nHumation のアバターはプロフィールのアイコンです。アプリ内のエディタで Humation 1 のパーツと色から自分のキャラクターを組み立て、同梱のアセットから端末内で描画します。",
       "usage": "プロフィールのアイコン。アプリ内のエディタで Humation 1 のパーツと色から自分のキャラクターを組み立てる",
       "screenshots": [
         {
           "file": "screenshots/01.webp",
-          "alt": "保存した宿が並ぶライブラリ。検索欄と、すべて・気になる・行った・お気に入りの絞り込みチップ"
+          "alt": "保存した宿のページ。予約する・公式サイト・AI に聞くのボタンと、宿泊アルバム"
         },
         {
           "file": "screenshots/02.webp",
-          "alt": "宿の保存シート。宿名・公式サイトの URL・所在地・表紙が自動で入り、ステータスのチップとおすすめタグが並ぶ"
+          "alt": "その宿の予約シート。公式サイトが先頭で、楽天・じゃらん・一休・Yahoo・Booking・Expedia・Agoda が続く"
         },
         {
           "file": "screenshots/03.webp",
-          "alt": "共有中のコレクション「秋の温泉、どこ行く？」。メンバー 2 人・4 件の宿が写真のグリッドで並ぶ"
+          "alt": "保存した宿が並ぶライブラリ。検索欄と、すべて・気になる・行った・お気に入りの絞り込みチップ"
         },
         {
           "file": "screenshots/04.webp",
-          "alt": "共有コレクションの中のアンケート。候補の宿 4 件と投票ボタン、1 人 2 票まで・残り 2 日"
+          "alt": "宿の保存シート。宿名・公式サイトの URL・所在地・表紙が自動で入り、ステータスのチップとおすすめタグが並ぶ"
         },
         {
           "file": "screenshots/05.webp",
