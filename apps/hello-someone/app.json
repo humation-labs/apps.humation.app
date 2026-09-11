@@ -1,0 +1,78 @@
+{
+  "$schema": "https://apps.humation.app/schema/app.schema.json",
+  "name": "Hello, Someone",
+  "tagline": "Postcards from someone kind",
+  "description": "Hello, Someone is a quiet postcard exchange. You write one postcard, choosing a cover from a hand-drawn collection and a short message, and send it Express or Regular. While it travels, a postcard from a stranger travels to you and arrives by email. You can answer in a private, turn-by-turn exchange, or simply keep the postcard and its cover.\n\nThere are no profiles, feeds or chat. Sign-in is a one-time email code, and the whole of a person's identity is a Humation avatar and a five-digit tag, drawn from their account id at first sign-in and customizable in Humation's own picker.\n\nThat avatar is everywhere a person appears: on the This is you screen, in the corner sticker on every page, on each postcard and reply in an exchange, in the postcard and reply emails, and on the supporters' board where people who bought the maker a coffee leave a postcard.",
+  "url": "https://someone.openmouse.co",
+  "category": "social",
+  "platforms": [
+    "web"
+  ],
+  "pricing": "free",
+  "humation": {
+    "packages": [
+      "@humation/react",
+      "@humation/core",
+      "@humation/assets-humation-1"
+    ],
+    "usage": "Every person's identity: the This is you screen, the corner sticker, postcards, replies, emails and the supporters' board"
+  },
+  "developer": {
+    "name": "Openmouse Studio",
+    "github": "ananfang",
+    "url": "https://someone.openmouse.co"
+  },
+  "icon": "icon.png",
+  "screenshots": [
+    {
+      "file": "screenshots/01.png",
+      "alt": "The landing: a postcard taken down off a line of hand-drawn covers, above Sign in with email"
+    },
+    {
+      "file": "screenshots/02.png",
+      "alt": "This is you: a Humation avatar with a five-digit tag, a Customize button and the languages you can read"
+    },
+    {
+      "file": "screenshots/03.png",
+      "alt": "Home signed in: the avatar and tag in the corner, a cover hoisted on the desk, and Write a postcard with four ready"
+    },
+    {
+      "file": "screenshots/04.png",
+      "alt": "The composer: a cover taped to a sheet, a short message on ruled lines, and Express or Regular as stamps before Send"
+    },
+    {
+      "file": "screenshots/05.png",
+      "alt": "Your collection: the covers you hold as prints in a drawer, with a theme strip and new tapes on the unopened ones"
+    }
+  ],
+  "i18n": {
+    "ja": {
+      "tagline": "やさしい誰かからのはがき",
+      "description": "Hello, Someone は、静かなはがき交換アプリです。手描きの表紙を選んで短い言葉を書き、速達か普通で一枚送ると、その間に見知らぬ誰かからのはがきが旅をして、メールで届きます。ふたりだけのやりとりで返事をしてもいいし、はがきと表紙をそのまま手元に残してもかまいません。\n\nプロフィールもフィードもチャットもありません。サインインはメールの確認コードだけで、その人を表すのは Humation アバターと 5 桁の番号だけ。アバターは初回サインイン時にアカウント ID から描かれ、Humation のピッカーで自分好みに変えられます。\n\nこのアバターは、その人が現れるあらゆる場所に使われています。This is you の画面、すべてのページの隅のステッカー、やりとりの中の各はがきと返事、はがきと返事のメール、そしてつくった人にコーヒーをおごった人がはがきを残すサポーターの伝言板です。",
+      "usage": "This is you の画面、隅のステッカー、はがき、返事、メール、サポーターの伝言板に現れる、その人の顔",
+      "screenshots": [
+        {
+          "file": "screenshots/01.png",
+          "alt": "手描きの表紙の列から一枚を下ろした、メールでサインインの前のトップ画面"
+        },
+        {
+          "file": "screenshots/02.png",
+          "alt": "Humation アバターと 5 桁の番号、カスタマイズボタン、読める言語を選ぶ This is you の画面"
+        },
+        {
+          "file": "screenshots/03.png",
+          "alt": "隅にアバターと番号、机に一枚の表紙、あと 4 枚と書かれた「はがきを書く」ボタンのあるホーム"
+        },
+        {
+          "file": "screenshots/04.png",
+          "alt": "表紙をテープで留めた便箋に短い言葉を書き、速達か普通の切手を選んで送る作成画面"
+        },
+        {
+          "file": "screenshots/05.png",
+          "alt": "持っている表紙が引き出しのプリントのように並び、テーマの帯と未開封の new テープがあるコレクション"
+        }
+      ]
+    }
+  },
+  "addedAt": "2026-09-11"
+}
