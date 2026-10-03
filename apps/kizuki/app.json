@@ -1,0 +1,75 @@
+{
+  "$schema": "https://apps.humation.app/schema/app.schema.json",
+  "name": "きづき",
+  "tagline": "Snap a school newsletter and AI turns it into your family calendar",
+  "description": "きづき (Kizuki) is a family calendar for parents of nursery, kindergarten and school children in Japan. Take a photo of a paper newsletter and AI reads the dates, times, places and things to bring, then lists them as events you can check and edit before saving them to the family planner. A reminder the evening before helps you remember what to pack.\n\nThe calendar can be filtered by child and shared with the whole family. It is free to use, with an optional premium plan for unlimited scans and an AI assistant that answers questions about upcoming events.\n\nEvery family member, child or parent, has a hand-drawn Humation avatar rendered on the device from a seed with @humation/core and the Humation 1 asset set. Tap an avatar to pick a different one from a grid or shuffle for new options. Avatars appear in the family member list, on the member tag of every event card and on the child profile form.",
+  "url": "https://apps.apple.com/jp/app/id6760141790",
+  "category": "productivity",
+  "platforms": ["ios"],
+  "pricing": "freemium",
+  "humation": {
+    "packages": ["@humation/core", "@humation/assets-humation-1"],
+    "usage": "Family member avatars in the member list, the icon picker, the child profile form and the member tag on every event card"
+  },
+  "developer": {
+    "name": "daichi",
+    "github": "daikin555",
+    "url": "https://kizuki-app.com/"
+  },
+  "icon": "icon.png",
+  "screenshots": [
+    {
+      "file": "screenshots/01-avatar-picker.png",
+      "alt": "The icon picker sheet showing a grid of Humation avatars to choose from for a family member"
+    },
+    {
+      "file": "screenshots/02-calendar.png",
+      "alt": "The monthly family calendar with an event card tagged with the child's Humation avatar"
+    },
+    {
+      "file": "screenshots/03-scan-results.png",
+      "alt": "Scan results listing two events that AI read from a newsletter, ready to save"
+    },
+    {
+      "file": "screenshots/04-family.png",
+      "alt": "The family member list in settings with a Humation avatar for each child and parent"
+    },
+    {
+      "file": "screenshots/05-child-profile.png",
+      "alt": "The child profile form with the child's Humation avatar above the name, school and class fields"
+    }
+  ],
+  "links": {
+    "appStore": "https://apps.apple.com/jp/app/id6760141790"
+  },
+  "i18n": {
+    "ja": {
+      "tagline": "おたよりを撮るだけで、AIが家族のカレンダーに",
+      "description": "きづきは、保育園・幼稚園・学校に通う子どもを持つ家族のためのカレンダーアプリです。紙のおたよりを撮影すると、AI が日付・時間・場所・持ち物を読み取って予定の候補にします。内容を確認・編集してから家族の手帳に保存でき、前日の夜には持ち物をリマインドします。\n\nカレンダーは子どもごとに絞り込めて、家族みんなで共有できます。基本無料で、スキャン無制限や予定について質問できる AI アシスタントが使えるプレミアムプランもあります。\n\n子どもも保護者も、家族ひとりひとりに手描きの Humation アバターが付きます。@humation/core と Humation 1 アセットセットでシードから端末上で描画され、アバターをタップすると一覧から選び直したりシャッフルしたりできます。家族メンバーの一覧、すべての予定カードのメンバータグ、子どものプロフィール入力画面に表示されます。",
+      "usage": "家族メンバーの一覧、アイコン選択、子どものプロフィール入力画面、予定カードのメンバータグ",
+      "screenshots": [
+        {
+          "file": "screenshots/01-avatar-picker.png",
+          "alt": "家族メンバーの Humation アバターを一覧から選ぶ「アイコンを選ぶ」シート"
+        },
+        {
+          "file": "screenshots/02-calendar.png",
+          "alt": "子どもの Humation アバター付きの予定カードが並ぶ月表示の家族カレンダー"
+        },
+        {
+          "file": "screenshots/03-scan-results.png",
+          "alt": "おたよりから AI が読み取った2件の予定が並ぶスキャン結果画面"
+        },
+        {
+          "file": "screenshots/04-family.png",
+          "alt": "子どもと保護者それぞれに Humation アバターが付いた設定の家族メンバー一覧"
+        },
+        {
+          "file": "screenshots/05-child-profile.png",
+          "alt": "名前・園名・クラス名の入力欄の上に子どもの Humation アバターが表示されたプロフィール入力画面"
+        }
+      ]
+    }
+  },
+  "addedAt": "2026-10-03"
+}
