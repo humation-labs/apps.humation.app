@@ -7,6 +7,7 @@
   "category": "lifestyle",
   "platforms": [
     "web",
+    "ios",
     "android"
   ],
   "pricing": "freemium",
@@ -45,6 +46,7 @@
     }
   ],
   "links": {
+    "appStore": "https://apps.apple.com/jp/app/tavinote/id6777666008",
     "playStore": "https://play.google.com/store/apps/details?id=com.imshota.tavinote",
     "repo": "https://github.com/imshota1009/TaviNote",
     "x": "https://x.com/NekoDev1009"
