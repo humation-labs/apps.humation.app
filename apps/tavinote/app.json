@@ -26,7 +26,7 @@
   "screenshots": [
     {
       "file": "screenshots/01.png",
-      "alt": "Home screen with postcard-style trip cards showing dates, destination and preparation progress"
+      "alt": "Home screen with a postcard-style trip card showing the dates, the destination and how much of the preparation is done"
     },
     {
       "file": "screenshots/02.png",
@@ -59,7 +59,7 @@
       "screenshots": [
         {
           "file": "screenshots/01.png",
-          "alt": "旅行がポストカード風のカードで並ぶホーム画面"
+          "alt": "旅行がポストカード風のカードで並ぶホーム画面。日付と行き先、準備の進み具合が見える"
         },
         {
           "file": "screenshots/02.png",
@@ -75,7 +75,7 @@
         },
         {
           "file": "screenshots/05.png",
-          "alt": "思い出の森とこれまでの木が並ぶコレクション画面"
+          "alt": "思い出の森林とこれまでの木が並ぶコレクション画面"
         }
       ]
     }
