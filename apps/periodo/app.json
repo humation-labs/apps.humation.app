@@ -1,0 +1,78 @@
+{
+  "$schema": "https://apps.humation.app/schema/app.schema.json",
+  "name": "Periodo.",
+  "tagline": "Stop Saving It for Someday",
+  "description": "Periodo. is a list for things you want to do someday, built so some of them happen this month. Add an idea to Stock when it comes to mind. At the start of the month, pick the ones you will do. On a day off, open the app and do one. What you finish stays with that month, and anything still open carries into the next. There is no end-of-month close.\n\nYour hand-drawn avatar is rendered on the device with humation-swift. On This Month it stands at the center while the things you picked orbit around it. The same avatar sits in the corner of every tab and, larger, at the top of your profile, where you can change the hair, clothes, accessories, and colors.",
+  "url": "https://apps.apple.com/jp/app/id6813506924",
+  "category": "lifestyle",
+  "platforms": [
+    "ios"
+  ],
+  "pricing": "freemium",
+  "humation": {
+    "packages": [
+      "humation-swift"
+    ],
+    "usage": "Center of This Month, the corner of every tab, your profile, and the avatar editor"
+  },
+  "developer": {
+    "name": "Issei Ikeda",
+    "github": "ike04"
+  },
+  "icon": "icon.png",
+  "screenshots": [
+    {
+      "file": "screenshots/01-home.png",
+      "alt": "This Month, with picked wishes orbiting a hand-drawn Humation avatar"
+    },
+    {
+      "file": "screenshots/02-profile.png",
+      "alt": "Profile, with a large Humation avatar above plan and notification settings"
+    },
+    {
+      "file": "screenshots/03-editor.png",
+      "alt": "The Humation avatar editor, choosing hair, clothes, and background colors"
+    },
+    {
+      "file": "screenshots/04-done.png",
+      "alt": "Done, with last month's finished wishes shown as icons on a night sky"
+    },
+    {
+      "file": "screenshots/05-stock.png",
+      "alt": "Stock, a list of ideas saved for later, with the Humation avatar in the corner"
+    }
+  ],
+  "links": {
+    "appStore": "https://apps.apple.com/jp/app/id6813506924"
+  },
+  "i18n": {
+    "ja": {
+      "tagline": "いつかのために、取っておかない",
+      "description": "Periodo. は、「いつかやりたい」を今月やるためのリストです。思いついたらストックに入れ、月のはじめに今月やる分を選び、休日にひとつやります。やり終えたものはその月に残り、残ったものは来月へ持ち越します。月末に締める作業はありません。\n\n手描きのアバターは humation-swift で端末の中に描かれます。今月の画面では中心に立ち、選んだやりたいことがまわりを回ります。同じアバターが各タブの隅と、プロフィールの上にもあり、髪・服・持ち物・色を変えられます。",
+      "usage": "今月の中心、各タブの隅、プロフィール、アバターの編集",
+      "screenshots": [
+        {
+          "file": "screenshots/01-home.png",
+          "alt": "手描きの Humation アバターを中心に、今月やることが回っている"
+        },
+        {
+          "file": "screenshots/02-profile.png",
+          "alt": "大きな Humation アバターが上にあるプロフィール"
+        },
+        {
+          "file": "screenshots/03-editor.png",
+          "alt": "髪・服・背景色を選ぶ Humation のアバター編集画面"
+        },
+        {
+          "file": "screenshots/04-done.png",
+          "alt": "先月やり終えたものが夜空のアイコンになっている達成"
+        },
+        {
+          "file": "screenshots/05-stock.png",
+          "alt": "あとでやるアイデアが並ぶストック。隅に Humation のアバター"
+        }
+      ]
+    }
+  },
+  "addedAt": "2026-10-12"
+}
