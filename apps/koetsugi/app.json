@@ -1,0 +1,38 @@
+{
+  "$schema": "https://apps.humation.app/schema/app.schema.json",
+  "name": "KoeTsugi",
+  "tagline": "Keep the conversation flowing across languages, even offline",
+  "description": "KoeTsugi lets people who speak different languages talk to each other just by speaking into the phones they already carry. What you say reaches everyone else translated into their own language.\n\nPhones nearby connect to each other directly, so the conversation keeps going even without an internet connection. Join a conversation from the nearby list, an invite QR code or an 8-digit invite code. No account or sign-in is needed, and three or more people can talk together.\n\nSpeech recognition and translation run on the device first. Audio, text and translations are never saved on the device or on a server.\n\nEach participant is shown with a hand-drawn Humation avatar: on the home screen, next to every message in the conversation, and on the invite screen so people can spot the right conversation in the nearby list.",
+  "url": "https://five-birds.com/koetsugi",
+  "category": "lifestyle",
+  "platforms": ["ios", "android"],
+  "pricing": "free",
+  "humation": {
+    "packages": ["@humation/core", "@humation/assets-humation-1"],
+    "usage": "Each participant's avatar, shown next to their messages and in the nearby conversation list"
+  },
+  "developer": { "name": "five-birds", "github": "ismtmsr", "url": "https://five-birds.com" },
+  "icon": "icon.png",
+  "screenshots": [
+    { "file": "screenshots/01.png", "alt": "Home screen with your avatar, a nearby conversation to join and a button to start a new one" },
+    { "file": "screenshots/02.png", "alt": "A conversation where the other person's Japanese messages appear translated into English" },
+    { "file": "screenshots/03.png", "alt": "Invite screen with a QR code, an 8-digit invite code and the host's avatar" }
+  ],
+  "links": {
+    "appStore": "https://apps.apple.com/jp/app/koetsugi/id6812147450",
+    "playStore": "https://play.google.com/store/apps/details?id=com.fivebirds.ysitranslate"
+  },
+  "i18n": {
+    "ja": {
+      "tagline": "言葉が違っても、ネットがなくても会話が続く翻訳アプリ",
+      "description": "KoeTsugi は、言葉の違う人どうしが手持ちのスマホに話しかけるだけで会話できる翻訳アプリです。話した言葉は、ほかの参加者それぞれの言語に訳されて届きます。\n\n近くのスマホどうしが直接つながるので、インターネットがなくても会話が続きます。近くの会話の一覧、招待 QR、8 桁の招待コードのどれからでも参加できます。アカウントやサインインは不要で、3 人以上でも会話できます。\n\n音声認識と翻訳は端末内で行うのが基本です。音声・文章・訳は、端末にもサーバにも保存しません。\n\n参加者は手描きの Humation アバターで表示されます。ホーム画面、会話の中の各メッセージの横、そして近くの会話の一覧で目当ての会話を見分けられるよう招待画面にも出ます。",
+      "usage": "参加者ごとのアバター。メッセージの横と近くの会話の一覧に表示",
+      "screenshots": [
+        { "file": "screenshots/01.png", "alt": "自分のアバター、近くの会話、新しい会話を始めるボタンが並ぶホーム画面" },
+        { "file": "screenshots/02.png", "alt": "相手の日本語のメッセージが英語に訳されて並ぶ会話画面" },
+        { "file": "screenshots/03.png", "alt": "QR コード、8 桁の招待コード、ホストのアバターが出る招待画面" }
+      ]
+    }
+  },
+  "addedAt": "2026-10-26"
+}
