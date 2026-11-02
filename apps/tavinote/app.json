@@ -30,19 +30,19 @@
     },
     {
       "file": "screenshots/02.png",
-      "alt": "A shared trip showing the Humation avatars of the two members and a tree grown to sixty-seven percent"
+      "alt": "A photo stamped with the city and the date it was taken, ready to be saved as a record of the place"
     },
     {
       "file": "screenshots/03.png",
-      "alt": "Settings screen showing the user own Humation avatar under Your avatar"
+      "alt": "A shared trip showing the Humation avatars of the two members and the tree that grows as the preparation moves on"
     },
     {
       "file": "screenshots/04.png",
-      "alt": "The growth record dialog showing the tree at stage one of ten with a short description"
+      "alt": "The travel passport card counting the trips, the countries, the places visited and the kinds of tree grown"
     },
     {
       "file": "screenshots/05.png",
-      "alt": "The collection screen with the memory forest and the trees unlocked so far"
+      "alt": "Settings screen showing the user own Humation avatar under Your avatar"
     }
   ],
   "links": {
@@ -63,19 +63,19 @@
         },
         {
           "file": "screenshots/02.png",
-          "alt": "2人で共有中の旅行画面と67%まで育った木"
+          "alt": "撮った写真に市区町村名と日付のスタンプが押され、その場所の記録として保存できる画面"
         },
         {
           "file": "screenshots/03.png",
-          "alt": "自分のHumationアバターが表示された設定画面"
+          "alt": "2人で共有中の旅行画面と、準備が進むにつれて育っていく木"
         },
         {
           "file": "screenshots/04.png",
-          "alt": "木の成長を1/10から順に見られる成長の記録"
+          "alt": "旅の回数、国・地域、訪れた場所、育てた木の種類が並ぶ旅のパスポート"
         },
         {
           "file": "screenshots/05.png",
-          "alt": "思い出の森林とこれまでの木が並ぶコレクション画面"
+          "alt": "自分のHumationアバターが表示された設定画面"
         }
       ]
     }
